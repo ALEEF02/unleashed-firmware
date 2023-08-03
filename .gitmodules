@@ -46,3 +46,6 @@
 [submodule "applications/external/multi_fuzzer"]
 	path = applications/external/multi_fuzzer
 	url = https://github.com/DarkFlippers/Multi_Fuzzer.git
+[submodule "applications/external/gps_exchanger"]
+	path = applications/external/gps_exchanger
+	url = https://github.com/ALEEF02/GPS_Exchanger_Flipper.git
